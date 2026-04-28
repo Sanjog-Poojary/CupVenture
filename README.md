@@ -12,7 +12,7 @@ CupVenture redefines the way we serve desserts and snacks by providing 100% edib
 - **Floating Product Animations**: Eye-catching floating waffle cups in the hero section that create a dynamic and whimsical feel.
 - **Custom Cursor**: A unique waffle texture cursor for a delightful touch.
 - **Responsive Layout**: A mobile-friendly grid and section layout for an optimal experience across all devices.
-- **Volume Options**: A selection grid featuring different cup sizes (30ml, 60ml, 75ml) with 3D hover effects.
+- **Volume Options**: A selection grid featuring different cup sizes (60ml, 75ml) with 3D hover effects.
 - **Drizzle Animation**: SVG-based drizzle background animation for enhanced visual appeal.
 
 ## 🛠️ Built With
