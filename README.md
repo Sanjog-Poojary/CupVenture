@@ -1,10 +1,10 @@
-# Antigravity – Edible Waffle Cups
+# CupVenture – Edible Waffle Cups
 
-Welcome to the **Antigravity** showcase project! This repository contains the source code for a premium, single-page product showcase website for "Antigravity," a brand that produces edible waffle cups.
+Welcome to the **CupVenture** showcase project! This repository contains the source code for a premium, single-page product showcase website for "CupVenture," a brand that produces edible waffle cups.
 
 ## 🌟 Overview
 
-Antigravity redefines the way we serve desserts and snacks by providing 100% edible, zero-waste waffle cups. The website is designed to provide a visually immersive, whimsical, and premium user experience that features floating product animations, a responsive product grid, and interactive elements.
+CupVenture redefines the way we serve desserts and snacks by providing 100% edible, zero-waste waffle cups. The website is designed to provide a visually immersive, whimsical, and premium user experience that features floating product animations, a responsive product grid, and interactive elements.
 
 ## ✨ Features
 
@@ -12,7 +12,7 @@ Antigravity redefines the way we serve desserts and snacks by providing 100% edi
 - **Floating Product Animations**: Eye-catching floating waffle cups in the hero section that create a dynamic and whimsical feel.
 - **Custom Cursor**: A unique waffle texture cursor for a delightful touch.
 - **Responsive Layout**: A mobile-friendly grid and section layout for an optimal experience across all devices.
-- **Flavor Showcase**: A product grid featuring different flavors (Classic, Dark Cacao, Honey Oat, Matcha Zen, Cinnamon Spice, Berry Bliss) with 3D hover effects.
+- **Volume Options**: A selection grid featuring different cup sizes (50ml, 75ml, 100ml) with 3D hover effects.
 - **Drizzle Animation**: SVG-based drizzle background animation for enhanced visual appeal.
 
 ## 🛠️ Built With
@@ -47,4 +47,4 @@ The project prioritizes visual excellence and a premium feel:
 
 ## 🌍 Sustainability
 
-Antigravity cups are 100% edible, zero plastic waste, and naturally delicious. They hold up to 20 minutes without softening, perfect for hot and cold servings alike.
+CupVenture cups are 100% edible, zero plastic waste, and naturally delicious. They hold up to 20 minutes without softening, perfect for hot and cold servings alike.
