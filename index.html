@@ -498,31 +498,55 @@
         }
 
         @media (max-width: 600px) {
-            .grid {
-                grid-template-columns: 1fr;
+            .container {
+                padding: 0 8%;
             }
-            .use-grid {
+            .grid, .use-grid, .usp-grid {
                 grid-template-columns: 1fr;
+                gap: 40px;
             }
-            .usp-grid {
-                grid-template-columns: 1fr;
-            }
-            .hero-buttons {
+            .hero-buttons, .cta-buttons {
                 flex-direction: column;
+                width: 100%;
             }
-            .cta-buttons {
-                flex-direction: column;
+            .hero-buttons .btn, .cta-buttons .btn {
+                width: 100%;
             }
-            .cup-1, .cup-2, .cup-3, .cup-4, .cup-5 {
-                position: relative;
-                top: auto; left: auto; right: auto; bottom: auto;
-                margin: 10px auto;
-                opacity: 1;
-                display: none; /* Hide most on mobile for cleanliness */
+            .cta .container {
+                padding: 40px 20px;
             }
-            .cup-1, .cup-2 {
-                display: block;
-                position: absolute;
+            .flavours, .use-cases, .usp, .cta {
+                padding: 60px 0;
+            }
+            h1 {
+                font-size: 2.8rem;
+            }
+            h2 {
+                font-size: 2.2rem;
+            }
+            .subtitle {
+                font-size: 1.1rem;
+            }
+            .cup-3, .cup-4, .cup-5 {
+                display: none;
+            }
+            .cup-1 {
+                top: 10%;
+                left: -10%;
+                width: 80px;
+                opacity: 0.4;
+            }
+            .cup-2 {
+                top: auto;
+                bottom: 15%;
+                right: -10%;
+                left: auto;
+                width: 100px;
+                opacity: 0.4;
+            }
+            .card-cup-img {
+                width: 100px;
+                height: 100px;
             }
         }
     </style>
